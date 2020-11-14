@@ -1,0 +1,23 @@
+ Atlanta 	Sat 20:59	Frankfurt	Sun 01:59	Managua	Sat 18:59	Shanghai	Sun 08:59
+ Auckland 	Sun 13:59	Guatemala City	Sat 18:59	Manila	Sun 08:59	Singapore	Sun 08:59
+ Baghdad	Sun 03:59	Halifax 	Sat 21:59	Melbourne 	Sun 11:59	Sofia	Sun 02:59
+ Bangalore	Sun 06:29	Hanoi	Sun 07:59	Mexico City	Sat 18:59	St. John's 	Sat 22:29
+ Bangkok	Sun 07:59	Harare	Sun 02:59	Miami 	Sat 20:59	Stockholm	Sun 01:59
+ Barcelona	Sun 01:59	Havana 	Sat 20:59	Minneapolis 	Sat 19:59	Suva	Sun 12:59
+ Beijing	Sun 08:59	Helsinki	Sun 02:59	Minsk	Sun 03:59	Sydney 	Sun 11:59
+ Beirut	Sun 02:59	Hong Kong	Sun 08:59	Montevideo	Sat 21:59	Taipei	Sun 08:59
+ Belgrade	Sun 01:59	Honolulu	Sat 14:59	Montréal 	Sat 20:59	Tallinn	Sun 02:59
+ Berlin	Sun 01:59	Houston 	Sat 19:59	Moscow	Sun 03:59	Tashkent	Sun 05:59
+ Bogota	Sat 19:59	Indianapolis 	Sat 20:59	Mumbai	Sun 06:29	Tegucigalpa	Sat 18:59
+ Boston 	Sat 20:59:32	Islamabad	Sun 05:59	Nairobi	Sun 03:59	Tehran	Sun 04:29
+ Brasilia	Sat 21:59:12	Istanbul	Sun 03:59	Nassau 	Sat 20:59	Tokyo	Sun 09:59
+ Brisbane	Sun 10:59:59	Jakarta	Sun 07:59	New Delhi	Sun 06:29	Toronto 	Sat 20:59
+ Brussels	Sun 01:59:10	Jerusalem	Sun 02:59	New Orleans 	Sat 19:59	Vancouver 	Sat 17:59
+ Bucharest	Sun 02:59	Johannesburg	Sun 02:59	New York 	Sat 20:59	Vienna	Sun 01:59
+ Budapest	Sun 01:59	Kabul	Sun 05:29	Oslo	Sun 01:59	Warsaw	Sun 01:59
+ Buenos Aires	Sat 21:59	Karachi	Sun 05:59	Ottawa 	Sat 20:59	Washington DC 	Sat 20:59
+ Cairo	Sun 02:59	Kathmandu	Sun 06:44	Paris	Sun 01:59	Winnipeg 	Sat 19:59
+ Calgary 	Sat 18:59	Khartoum	Sun 02:59	Perth	Sun 08:59	Yangon	Sun 07:29
+ Canberra 	Sun 11:59	Kingston	Sat 19:59	Philadelphia 	Sat 20:59	Zagreb	Sun 01:59
+ Cape Town	Sun 02:59	Kinshasa	Sun 01:59	Phoenix	Sat 17:59	Zürich	Sun 01:59
+ Caracas	Sat 20:59	Kiritimati	Sun 14:59	Prague	Sun 01:59
